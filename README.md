@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2 align="left">Hi 👋! My name is Srajan Tiwari and I'm a frontend developer from Jabalpur</h2>
+<h2 align="left">Hi 👋! My name is Srajan Tiwari and I'm a Mern stack developer from Jabalpur</h2>
 
 ###
 
